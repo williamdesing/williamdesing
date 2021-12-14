@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, my name is William
 #### Design and Development
 ![Design and Development](https://twitter.com/william_desing/header_photo)
