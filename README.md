@@ -2,14 +2,13 @@
 
 #### Design and Development
 
-I'm William!, and I am UX Designer and Developer. I enjoy creating design and learning new languages and frameworks like React, Angular, and Vue, as well work in WordPress. I also enjoy wireframing, UI, UX design in general. You can check me out on Twitter.
+I'm William!, and I am UX Designer and Developer. I enjoy creating design and learning new languages and frameworks like React, Angular, and Vue, as well work in WordPress. I also enjoy wireframing, UI, UX design in general. 
 
 
 
 #### Skills and Experience
 
 * VUE
-* JS
 * REACT
 * JS
 * HTML
